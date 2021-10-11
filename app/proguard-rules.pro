@@ -1,0 +1,11 @@
+-keepattributes Signature
+-keepclassmembers class com.sen.mo.apppsss.ui.forever.** {*;}
+-keep class yourpackage.** { *; }
+-dontusemixedcaseclassnames
+-dontskipnonpubliclibraryclasses
+-verbose
+-keep class com.appsflyer.** { *; }
+
+-obfuscationdictionary dictionary.txt
+-packageobfuscationdictionary dictionary.txt
+-classobfuscationdictionary dictionary.txt

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127083618764",
+    "project_id": "comjackcitycitypotapp",
+    "storage_bucket": "comjackcitycitypotapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127083618764:android:e0d62dfff5ab026164fd69",
+        "android_client_info": {
+          "package_name": "com.jackcity.citypot.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127083618764-mqaaqq4lhq2uj6fgf224ggkmf886jh7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbVS2eZn9SL7cHmwRmU5QMiAPgUUoP8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127083618764-mqaaqq4lhq2uj6fgf224ggkmf886jh7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

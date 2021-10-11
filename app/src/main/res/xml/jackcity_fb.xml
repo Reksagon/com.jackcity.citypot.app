@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultMap>
+    <entry>
+        <key>jacwhitepage</key>
+        <value>jacwhitepage</value>
+    </entry>
+    <entry>
+        <key>jacblackpage</key>
+        <value>jacblackpage</value>
+    </entry>
+    <entry>
+        <key>jacdefaultkey</key>
+        <value>jacdefaultkey</value>
+    </entry>
+</defaultMap>

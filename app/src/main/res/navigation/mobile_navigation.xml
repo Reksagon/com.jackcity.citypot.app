@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/jackCitySplash">
+
+    <fragment
+        android:id="@+id/jackCitySplash"
+        android:name="com.jackcity.citypot.app.jcsplash.JackCitySplash"
+        android:label="jack_city_splash_fragment"
+        tools:layout="@layout/jack_city_splash_fragment" >
+        <action
+            android:id="@+id/action_jackCitySplash_to_jackCityView"
+            app:destination="@id/jackCityView" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/jackCityView"
+        android:name="com.jackcity.citypot.app.jcview.JackCityView"
+        android:label="jack_city_view_fragment"
+        tools:layout="@layout/jack_city_view_fragment" />
+</navigation>
