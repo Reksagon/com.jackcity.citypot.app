@@ -1,5 +1,3 @@
--keepattributes Signature
--keepclassmembers class com.sen.mo.apppsss.ui.forever.** {*;}
 -keep class yourpackage.** { *; }
 -dontusemixedcaseclassnames
 -dontskipnonpubliclibraryclasses
